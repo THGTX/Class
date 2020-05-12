@@ -1,4 +1,4 @@
-# Class
+# project
 
 # Trevontae' Haughton
 ## Thats my name
